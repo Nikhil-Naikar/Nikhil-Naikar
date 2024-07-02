@@ -33,8 +33,8 @@ Other than that, when I'm not coding, learning, or applying for jobs, I enjoy re
 <br />
 
 #
-
 <br />
+
 ### 📜 Certifications
 <a href="https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile">
   <img align="left" alt="AWS Certified Solutions Architect – Associate" width="125px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/c92ce5a6-f4ca-4f3c-98f8-1b87d83f5a6d" />
