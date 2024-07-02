@@ -33,7 +33,7 @@ Other than that, when I'm not coding, learning, or applying for jobs, I enjoy re
 <br />
 
 #
-
+#
 
 ### 📜 Certifications
 <a href="https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile">
