@@ -30,7 +30,7 @@ Other than that, when I'm not coding, learning, or applying for jobs, I enjoy re
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="scikit-learn" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="TensorFlow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-
+<br>
 
 ### 📜 Certifications
 <a href="https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile">
