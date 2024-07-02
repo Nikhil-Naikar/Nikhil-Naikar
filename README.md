@@ -33,8 +33,9 @@ Other than that, when I'm not coding, learning, or applying for jobs, I enjoy re
 <br />
 
 
+
 ### 📜 Certifications
-<img align="left" alt="AWS Certified Solutions Architect – Associate" width="60px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/c92ce5a6-f4ca-4f3c-98f8-1b87d83f5a6d" />
-<img align="left" alt="AWS Certified Cloud Practitioner" width="60px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/ad379651-e2a9-467f-b16d-6a0b0b1592ac" />
+<img align="left" alt="AWS Certified Solutions Architect – Associate" width="100px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/c92ce5a6-f4ca-4f3c-98f8-1b87d83f5a6d" />
+<img align="left" alt="AWS Certified Cloud Practitioner" width="100px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/ad379651-e2a9-467f-b16d-6a0b0b1592ac" />
 
 
