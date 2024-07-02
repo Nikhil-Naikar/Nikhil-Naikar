@@ -7,7 +7,7 @@ So far, I have obtained the **AWS Cloud Practitioner and AWS Solutions Architect
 
 Other than that, when I'm not coding, learning, or applying for jobs, I enjoy reading 📚, movies 🍿, video games 🎮, bouldering 🧗🏽‍♀️ and food especially sushi 🍣 (not sure if this counts as a hobby 😅).
 
-- 🔭 I’m currently working on the **[Clock-In-Clock-Out] project (https://github.com/WonderBoi99/Clock-In-Clock-Out)**
+- 🔭 I’m currently working on the **[Clock-In-Clock-Out project](https://github.com/WonderBoi99/Clock-In-Clock-Out)**
 - 📫 How to reach me: nikhil.naikar123@gmail.com
 
 
