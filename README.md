@@ -1,6 +1,6 @@
 ## Hello 👋🏾 My name is Nikhil 🧑🏾‍💻
 
-**`Electrical && Software Engineer == Nikhil Naikar`**
+**`Electrical && Software Engineer == Me`**
 
 I am a recent graduate ready to start and build a career in the software industry 🌎. With a solid foundation in software development, an exceptional work ethic, and a quick learning ability, I thrive on challenging work. I am passionate about solving complex problems and collaborating with teams to build innovative solutions. Also, I am particularly fascinated by Cloud Computing and Software Architecture.
 So far, I have obtained the **AWS Cloud Practitioner and AWS Solutions Architect Associate certifications**, and I plan to pursue many more. I am committed to continuous learning and growth and am always open to constructive criticism.
