@@ -30,8 +30,8 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 
+<br />
 
 ## Mentor, Big Brothers Big Sisters
 - Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
