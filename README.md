@@ -11,7 +11,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 ## Key Projects 📚
-- **[The Podcast Platform](https://github.com/Nikhil-Naikar/The-Podcast-Platform):** Currently building an app for hosting podcasts with AI-powered features, including text-to-multiple-voices functionality and AI-generated images, using React, Next.js 14, and Node.js.
+- **[The Podcast Platform](https://github.com/Nikhil-Naikar/The-Podcast-Platform):** Currently building an app for hosting podcasts with AI-powered features, including text-to-multiple-voices functionality and AI-generated images, with OpenAI integration.
 - **[Airbnb Pricing Intelligence](https://github.com/Nikhil-Naikar/Airbnb-Pricing-Intelligence):** Built an AI model to help Airbnb hosts accurately price their properties and to help customers evaluate pricing
 fairness. The model categorizes the prices as great, good, or okay.
 - **[Clock In Clock Out App](https://github.com/Nikhil-Naikar/Clock-In-Clock-Out):** Practiced API development by creating an application for restaurant businesses, allowing employees to easily clock in/out of their shifts and check their shift and pay history.
