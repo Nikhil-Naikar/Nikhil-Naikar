@@ -1,4 +1,4 @@
-👋🏾 Hi, I'm Nikhil Naikar! I am a Software Engineer🧑🏾‍💻 excited to start my career in the tech industry 🌎.
+👋🏾 Hi, I'm Nikhil Naikar! I'm a Software Engineer🧑🏾‍💻 excited to start my career in the tech industry 🌎.
 
 ## About Me 🔍
 With a solid foundation in software development 🎓, I enjoy tackling complex problems and collaborating with others to build innovative solutions. My passion lies in AI, Cloud Computing, and Development. I am **AWS Solutions Architect Associate and Cloud Practitioner certified**, with plans to pursue more. I am committed to continuous learning and aim to develop software solutions that not only solve real problems but also drive innovation and efficiency in the tech world.
