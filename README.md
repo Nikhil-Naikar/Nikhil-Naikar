@@ -10,6 +10,18 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 - **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, GitHub
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
+## Mentor, Big Brothers Big Sisters
+- Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
+
+## Professional Goals 🚀
+- **Career Development:** Seeking entry-level/junior software engineer roles at a company where I can apply my skills, learn from experienced professionals, and grow within a dynamic team.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+## Connect with Me 📬
+- 📫 [Email](nikhil.naikar123@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-naikar-a22313181/)
+
+
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="PySpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
@@ -29,20 +41,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<br />
-
-## Mentor, Big Brothers Big Sisters
-- Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
-
-## Professional Goals 🚀
-- **Career Development:** Seeking entry-level/junior software engineer roles at a company where I can apply my skills, learn from experienced professionals, and grow within a dynamic team.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
-
-## Connect with Me 📬
-- 📫 [Email](nikhil.naikar123@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-naikar-a22313181/)
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br />
 
 
 
