@@ -32,6 +32,10 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+
+## Mentor, Big Brothers Big Sisters
+- Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
+
 ## Professional Goals 🚀
 - **Career Development:** Seeking entry-level/junior software engineer roles at a company where I can apply my skills, learn from experienced professionals, and grow within a dynamic team.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
