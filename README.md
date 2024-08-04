@@ -10,7 +10,9 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 - **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, GitHub, Figma, Slack
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
-## Mentor, Big Brothers Big Sisters
+## Key Projects 📚
+
+## Mentor, Big Brothers Big Sisters 🌟
 - Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
 
 ## Professional Goals 🚀
