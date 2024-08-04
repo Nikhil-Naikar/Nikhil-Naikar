@@ -25,7 +25,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 <img align="left" alt="TensorFlow" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="PySpark" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
