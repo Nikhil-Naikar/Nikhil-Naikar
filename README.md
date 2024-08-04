@@ -1,6 +1,6 @@
 👋🏾 Hi, I'm Nikhil Naikar! I am a Software Engineer🧑🏾‍💻 excited to start and build my career in the tech industry 🌎.
 
-## About Me
+## About Me 🔍
 With a solid foundation in software development 🎓, I enjoy tackling complex problems and collaborating with others to build innovative solutions. My passion lies in AI, Cloud Computing, and development. I am **AWS Solutions Architect Associate and Cloud Practitioner certified**, with plans to pursue more. I am committed to continuous learning and aim to develop software solutions that not only solve real problems but also drive innovation and efficiency in the tech world.
 
 ## Technical Skills 🛠️
@@ -8,7 +8,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 - **Frameworks & Libraries:** React, Next.js, Node.js, Vue.js, Tailwind CSS, Spring Boot, Flask, Pandas, Matplotlib, Seaborn, Beautiful Soup
 - **Data Science & AI:** Scikit-learn, TensorFlow, PySpark, Databricks, Proficient in machine learning concepts and data analysis
 - **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, GitHub
-- **Certificates:** AWS Solutions Architect Associate, AWS Cloud Practitioner
+- **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 <img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
@@ -32,13 +32,5 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
 
-### 📜 Certifications
-<a href="https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile">
-  <img align="left" alt="AWS Certified Solutions Architect – Associate" width="75px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/c92ce5a6-f4ca-4f3c-98f8-1b87d83f5a6d" />
-</a>
-<a href="https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile">
-  <img align="left" alt="AWS Certified Cloud Practitioner" width="75px" style="padding-right:10px;" src="https://github.com/WonderBoi99/WonderBoi99/assets/61436662/ad379651-e2a9-467f-b16d-6a0b0b1592ac" />
-</a>
 
