@@ -7,6 +7,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java, C++, SQL
 - **Frameworks & Libraries:** React, Next.js, Node.js, Vue.js, Tailwind CSS, Spring Boot, Flask, Pandas, Matplotlib, Seaborn, Beautiful Soup
 - **Data Science & AI:** Scikit-learn, TensorFlow, PySpark, Databricks, Proficient in machine learning concepts and data analysis
+- **Testing:** Jira, JUnit, Selenium, Manual/Automated Test Plans, Code Coverage, White Box and Mutation Testing
 - **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, GitHub, Figma, Slack
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
