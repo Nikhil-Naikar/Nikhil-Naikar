@@ -23,7 +23,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
   * **[Farm Overheating Detection System](https://engineeringdesignfair.ucalgary.ca/electrical/farm-overheating-detection-system-fods/):** Built an Internet of Things (IoT) system leveraging AWS to detect dangerous heat levels on farms, aimed at preventing fires and associated risks.
   
 ## Mentor, Big Brothers Big Sisters 🌟
-- Offered support and guidance to a youth through regular 2-3 times a month interactions, participating in everyday activities like helping with homework, playing board games or sports, and building a positive relationship.
+- Offered support and guidance to youth through frequent interactions, and participation in everyday activities such as tutoring, playing board games or sports, and building a positive relationship.
 
 ## Professional Goals 🚀
 - **Career Development:** Seeking entry-level/junior software engineer roles at a company where I can apply my skills, learn from experienced professionals, and grow within a dynamic team.
