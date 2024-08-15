@@ -14,7 +14,7 @@ With a solid foundation in software development 🎓, I enjoy tackling complex p
 ## Key Projects 📚
 - **Web Development:**
   * **[The Podcast Platform](https://github.com/Nikhil-Naikar/The-Podcast-Platform):** Currently building an app for hosting podcasts with AI-powered features, including text-to-multiple-voices functionality and AI-generated images, with ChatGPT integration.
-  * **[Clock In Clock Out App](https://github.com/Nikhil-Naikar/Clock-In-Clock-Out):** Practiced API development by creating an application for restaurant businesses, allowing employees to easily clock in/out of their shifts and check their shift/pay history.
+  * **[Clock In Clock Out Web App](https://github.com/Nikhil-Naikar/Clock-In-Clock-Out):** Practiced API development by creating an application for restaurant businesses, allowing employees to easily clock in/out of their shifts and check their shift/pay history.
   * **[HNM Clothing Store](https://github.com/Nikhil-Naikar/HNM-Clothing-Store):** Developed an e-commerce website where users can browse and purchase clothes, with Python and a focus on applying good relational database design practices for MySQL.
 - **Data Science & Artificial Intelligence:**
   * **[Airbnb Pricing Intelligence](https://github.com/Nikhil-Naikar/Airbnb-Pricing-Intelligence):** Created an AI model to assist Airbnb hosts in setting competitive prices and to help customers evaluate pricing fairness.
