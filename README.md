@@ -4,7 +4,6 @@
 Master’s Graduate in Software Engineering with expertise in AWS and AI, and industry experience in full-stack web development, project management and client relations. Currently seeking a company where I can apply my skills, collaborate with experienced professionals to solve business problems, and grow within a dynamic team. 🚀
 
 ## Technical Skills 🛠️
-- **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, Figma, Slack
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Pinia, Tailwind CSS, Shadcn
 - **Back-end:** C#, Java, Python, ASP.NET Core, Spring Boot, Flask, Pandas, Matplotlib, Seaborn, Beautiful Soup
 - **Data Science & AI:** Scikit-learn, TensorFlow, PySpark, Databricks, Proficient in machine learning concepts
