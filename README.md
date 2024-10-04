@@ -1,14 +1,15 @@
 👋🏾 Hi, I'm Nikhil Naikar! I'm a Software Engineer🧑🏾‍💻 excited to start my career in the tech industry 🌎.
 
 ## About Me 🔍
-With a solid foundation in software development 🎓, I enjoy tackling complex problems and collaborating with others to build innovative solutions. My passion lies in AI, cloud computing, and software architecture. I am **AWS Solutions Architect Associate and Cloud Practitioner certified**, with plans to pursue more. I am committed to continuous learning and aim to develop software solutions that not only solve real problems but also drive innovation and efficiency in the tech world.
+Master’s Graduate in Software Engineering with expertise in AWS and AI, and industry experience in full-stack web development, project management and client relations. Currently seeking a company where I can apply my skills, collaborate with experienced professionals to solve business problems, and grow within a dynamic team. 🚀
 
 ## Technical Skills 🛠️
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java, C++, SQL
-- **Frameworks & Libraries:** React, Next.js, Node.js, Vue.js, Tailwind CSS, Spring Boot, Flask, Pandas, Matplotlib, Seaborn, Beautiful Soup
-- **Data Science & AI:** Scikit-learn, TensorFlow, PySpark, Databricks, Proficient in machine learning concepts and data analysis
-- **Testing:** Jira, JUnit, Selenium, Manual/Automated Test Plans, Code Coverage, White Box and Mutation Testing
 - **Other:** MySQL, Linux, Docker, AWS, Jenkins, Git, Figma, Slack
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Pinia, Tailwind CSS, Shadcn
+- **Back-end:** C#, Java, Python, ASP.NET Core, Spring Boot, Flask, Pandas, Matplotlib, Seaborn, Beautiful Soup
+- **Data Science & AI:** Scikit-learn, TensorFlow, PySpark, Databricks, Proficient in machine learning concepts
+- **Testing:** Jira, JUnit, Selenium, Manual/Automated Test Plans, Code Coverage, White Box and Mutation Testing
+- **Other:** PostgreSQL, MySQL, SQLite, Linux, Node.js, Docker, Jenkins, Git
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 ## Key Projects 📚
