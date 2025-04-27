@@ -1,16 +1,15 @@
-`AWS Certified | Skilled in Automation & Development`
+`Programmer`
 
 ## About Me 🔍
-Master’s Graduate in Software Engineering with proven skills in AWS and AI, alongside industry experience in
-web development, project management, and client relations. Currently seeking an opportunity to apply my skills,
-collaborate with experienced professionals to solve business challenges, and grow within a dynamic team. 🚀
+Master’s Graduate in Software Engineering - skilled with AWS and AI, with industry experience in
+web development, project management, and client relations.
 
 ## Technical Skills 🛠️
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shadcn
-- **Back-end:** Python, Java, C#, ASP.NET Core, Spring Boot, JUnit, Node.js
-- **Cloud and DevOps:** Linux, AWS, Docker, Terraform, Bash, Shell Scripting, Jenkins
-- **Other:** Git, PostgreSQL, MySQL, Jira, Slack
-- **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile), studying for Terraform Associate
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Vue
+- **Back-end:** Python, Java, Spring Boot, JUnit, Node.js
+- **Cloud and DevOps:** Linux, AWS, Docker, Bash, Terraform
+- **Other:** Git, PostgreSQL, MySQL, Jira
+- **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 ## Key Projects 📚
 - **Cloud & DevOps:**
@@ -35,16 +34,12 @@ collaborate with experienced professionals to solve business challenges, and gro
 <img align="left" alt="JavaScript" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="ASP.NET Core" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring Boot" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Jenkins" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
