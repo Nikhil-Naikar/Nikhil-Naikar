@@ -1,9 +1,5 @@
 `Programmer`
 
-## About Me 🔍
-Master’s Graduate in Software Engineering - skilled with AWS and AI, with industry experience in
-web development, project management, and client relations.
-
 ## Technical Skills 🛠️
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Vue
 - **Back-end:** Python, Java, Spring Boot, JUnit, Node.js
