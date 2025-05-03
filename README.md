@@ -1,16 +1,13 @@
 `Programmer`
 
-## Technical Skills 🛠️
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Vue
-- **Back-end:** Python, Java, Spring Boot, JUnit, Node.js
-- **Cloud and DevOps:** Linux, AWS, Docker, Bash, Terraform
-- **Other:** Git, PostgreSQL, MySQL, Jira
+## 🛠️
+- **Languages:** HTML, CSS, JavaScript, Python, Java
+- **Other:** Linux, Git, Docker, Jira, PostgreSQL, Node.js, DigitalOcean
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
-## Key Projects 📚
-- **Cloud & DevOps:**
-  * **Portfolio Website:** Utilized Terraform to automate AWS infrastructure setup and management, accelerating deployment by 70%, and improving performance with caching (Cloudfront). Plans to improve security with a custom VPC and build a CI/CD pipeline to streamline continuous integration.
+## 📚
 - **Web Development:**
+  * **[My Website](https://nikhilnaikar-homepage.vercel.app/):** Utilized Terraform to automate AWS infrastructure setup and management, accelerating deployment by 70%, and improving performance with caching (Cloudfront). Plans to improve security with a custom VPC and build a CI/CD pipeline to streamline continuous integration.
   * **[The Podcast Platform](https://github.com/Nikhil-Naikar/The-Podcast-Platform):** A web app for hosting podcasts with AI-powered features, including text-to-multiple-voices functionality and AI-generated images, with OpenAI’s generative AI models (TTS & DALL·E 3).
   * **[Clock In Clock Out Web App](https://github.com/Nikhil-Naikar/Clock-In-Clock-Out):** Practiced RESTful API development by creating an application for restaurant businesses, allowing employees to easily clock in/out of their shifts and check their shift/pay history.
   * **[HNM Clothing Store](https://github.com/Nikhil-Naikar/HNM-Clothing-Store):** Developed an e-commerce website where users can browse and purchase clothes, with Python and a focus on applying good relational database design practices for MySQL.
@@ -28,12 +25,9 @@
 <img align="left" alt="HTML" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring Boot" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
