@@ -3,12 +3,13 @@
 ## 🛠️
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Vue, Bootstrap, Shadcn UI, LightningChart
 - **Back-end:** Python, Java, C#, ASP.NET Core, Spring Boot, Node.js, Express, Socket.io
+- **Machine Learning:** Pandas, Databricks, PyTorch, TensorFlow, scikit-learn, Matplotlib, Seaborn
 - **Other:** Git, Linux, Bash, AWS, Digital Ocean, Docker, Terraform, PostgreSQL, Redis
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 ## 📚
 - **Web Development:**
-  * **[My Website](https://nikhilnaikar-homepage.vercel.app/)** 
+  * **[My Website](https://nikhil-naikar.com)** 
   * **[The Podcast Platform](https://github.com/Nikhil-Naikar/The-Podcast-Platform)**
   * **[Clock In Clock Out Web App](https://github.com/Nikhil-Naikar/Clock-In-Clock-Out)**
   * **[HNM Clothing Store](https://github.com/Nikhil-Naikar/HNM-Clothing-Store)**
