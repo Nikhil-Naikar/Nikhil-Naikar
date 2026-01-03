@@ -1,9 +1,9 @@
 `A Junior Engineer`
 
 ## 🛠️
-- **Languages:** HTML, CSS, JavaScript & TypeScript, **learning Go**
-- **Libraries & Frameworks:** LightingChart, Express, Socket.io, **learning Vue**
-- **Other:** Git, Linux, AWS & Digital Ocean, Docker, Redis
+- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL, **learning Go, Gin**
+- **Libraries & Frameworks:** LightingChart, Express, Socket.io, **learning Vue, Pinia**
+- **Other:** Git, Linux, Docker, AWS, Digital Ocean, Redis, PostgreSQL
 - **Certificates:** [AWS Solutions Architect Associate](https://www.credly.com/badges/f4d107ed-827d-4b00-93ad-9b95eb4ecb56/linked_in_profile), [AWS Cloud Practitioner](https://www.credly.com/badges/8d7d5c65-b278-4243-98ae-da259f8d929a/linked_in_profile)
 
 ## 📚
